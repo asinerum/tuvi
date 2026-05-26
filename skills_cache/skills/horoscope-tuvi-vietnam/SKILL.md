@@ -26,7 +26,7 @@ If an error occurs, or the given data is causing confusion (or missed), do promp
 3. Create an horoscope (Vietnamese: "lập lá-số tử-vi") for the user, with above horoscope data (date of birth, time of birth), from your knowledge about Vietnamese horoscope.  
 
 4. Response "the brief summary of horoscope target time" to the user.  
-The response should include "tuổi" (year of birth, in Chinese/lunar calendar, not in Gregorian/solar calendar), "mệnh" (element of metal/wood/water/fire/earth), "cục" (birth chart), "âm-dương" (yin/yang), of the user, in the very beginning.  
+The response should include "mệnh" (element of metal/wood/water/fire/earth), "cục" (birth chart), of the user, in the very beginning.  
 
 ## Special Requirements
 
