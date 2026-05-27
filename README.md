@@ -14,7 +14,12 @@ Edit SH scripts to fit your needs.
 - DOB (date-of-birth) must be set in UK or ISO format (eg. 1/12/1995 or 1995-12-1).  
 - TOB (time-of-birth) must be set in 24-hour format (eg. 15h00 or 18:30).  
 - SEX should be: male, female.
-- TIME can be: day, week, month, or year.  
+- TIME can be: day, week, month, or year.
+```bash
+cd tuvi
+nano telechat.sh
+chmod +x telechat.sh
+```
 ## Start Telegram Bot
 ```bash
 cd tuvi
